@@ -4,4 +4,5 @@ this is a simple file
 
 this is second modified
 
-this sis modifiled
+this sis modifiled 
+and added the merge one
