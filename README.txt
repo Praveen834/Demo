@@ -5,4 +5,4 @@ this is a simple file
 this is second modified
 
 this sis modifiled 
-and added the merge one and two
+and added the merge two 
